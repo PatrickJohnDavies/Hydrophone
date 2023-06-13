@@ -1,5 +1,5 @@
 # Intro
-This project describes the construction of stereo audio hydrophone system by builing upon the hydrophone design from [Sound Sleuth](https://www.youtube.com/watch?v=KQ_KqJDaOM4). 
+This project describes the construction of a stereo audio hydrophone system by builing upon the hydrophone design from [Sound Sleuth](https://www.youtube.com/watch?v=KQ_KqJDaOM4). 
 Major parts of the system are:
 - Hydrophone with preampifier
 - Amplifier and headphone driver
