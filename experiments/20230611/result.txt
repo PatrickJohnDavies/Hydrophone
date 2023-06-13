@@ -1,0 +1,19 @@
+Goals:
+    Qualitateviely evaluate the design
+    Hear propeller noise
+    Hopefully hear a Dolphin squeek
+
+Site:
+    Located the hydrohphones 25 ft of the Bear Cut bridge in Miami. Site was chosen because it was near a popular boat channel.
+
+Setup:
+    The left and right hyrdrophone were suspended in the water column by the "stand". Approxitmately 30" apart.
+    They plugged into the amplifier and the resulting sound was listened to through headphones.
+
+Result:
+    Even though the waves were relatively calm there was a predominant high frequency rustling noise. 
+    With the gain cranked to about 3/4 it was possible to hear propeller noise at 400 to 500 meters from accelerating recreational motor boats. 
+    Ambient noise at this level was almost overwhelming though. Spectral analysis would have been nice to see if analog filtering would be effective.
+    Idling motor boats were not immeditaley detectable.
+    Sound bearing determination with the stereo hydrophones was not immeditaley apparent.
+    Recording with an iphone dongle was not working unfortunately.
