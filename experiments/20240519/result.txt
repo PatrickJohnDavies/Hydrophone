@@ -1,0 +1,8 @@
+Goals:
+    Record hydrophone audio through phone
+
+Site:
+    Beach. Hydrophone dropped into water 6 feet from shore.
+
+Result:
+    Good enviromental sounds pickup.
